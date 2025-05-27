@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useState } from "react";
 import { AppShell, Flex, Group, Radio, TextInput } from "@mantine/core";
 import { ExchangeItem } from "./components/ui/exchange-item";
 import { useQueries } from "@tanstack/react-query";
