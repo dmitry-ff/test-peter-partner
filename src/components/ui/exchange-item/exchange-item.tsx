@@ -28,7 +28,7 @@ export const ExchangeItem = ({
           </Text>
         </Stack>
         <Sparkline
-          w={100}
+          w={200}
           h={60}
           data={chartData}
           curveType="natural"
